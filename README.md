@@ -1,1 +1,1 @@
-![Hình minh họa](/images/Spark_Master_UI.png)
+![Hình minh họa](/images/avatar.png)
